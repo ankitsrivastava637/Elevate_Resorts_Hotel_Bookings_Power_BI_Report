@@ -1,5 +1,7 @@
 **Coursera Coursework/Project - Hotel Booking Business Report for Elevate Resorts** 
 
+ **Elevate Resorts.pbix is the file which contains interactive visual report and insights**
+
   **Report ScreenShots**
   
 ![PowerBI report - Home](https://github.com/ankitsrivastava637/Power_BI_projects/assets/26345232/68941715-7eb0-48c2-a90a-d4107815b326)
