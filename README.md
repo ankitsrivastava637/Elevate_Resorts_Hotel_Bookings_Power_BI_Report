@@ -1,6 +1,4 @@
-**Power BI Projects** 
+**Power BI Project Hotel Booking Business Report for Elevate Resorts** 
 
 
-**1. Coursework/projects On Coursera**
 
-**2. Projects through Youtube**
